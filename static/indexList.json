@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "data": [
+    {"platform": "基础功能", "function": "用户数限制", "free": "无限制", "vip": "无限制", "me": "无限制", "isFirst":true, "len": 11},
+    {"platform": "基础功能", "function": "基本检索接口", "free": true, "vip": true, "me": true, "len":11},
+    {"platform": "基础功能", "function": "全域检索", "free": true, "vip": true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "分库检索", "free": true, "vip": true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "标签检索", "free": true, "vip": true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "IP黑白名单检索", "free": true, "vip": true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "资源托管", "free": false, "vip": true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "私有云托管", "free": false, "vip":true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "数据加载", "free": false, "vip": true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "数据删除", "free": false, "vip": true, "me": true, "len": 11},
+    {"platform": "基础功能", "function": "数据更新", "free": false, "vip": true, "me": true, "len": 11},
+    {"platform": "高级功能", "function": "应用入驻", "free": false, "vip": true, "me": true, "isFirst":true, "len": 5},
+    {"platform": "高级功能", "function": "定制化标签", "free": false, "vip": true, "me": true, "len": 5},
+    {"platform": "高级功能", "function": "接口定制", "free": false, "vip": true, "me": true, "len": 5},
+    {"platform": "高级功能", "function": "数据定制", "free": false, "vip": false, "me": true, "len": 5},
+    {"platform": "高级功能", "function": "资源监控", "free": false, "vip": true, "me": true, "len": 5},
+    {"platform": "数据与统计分析", "function": "使用量统计", "free": true, "vip": true, "me": true, "isFirst":true, "len": 5},
+    {"platform": "数据与统计分析", "function": "API使用量分析", "free": true, "vip": true, "me": true, "len": 5},
+    {"platform": "数据与统计分析", "function": "资源统计", "free": false, "vip": true, "me": true, "len": 5},
+    {"platform": "数据与统计分析", "function": "数据报表", "free": false, "vip": true, "me": true, "len": 5},
+    {"platform": "数据与统计分析", "function": "用户分析", "free": false, "vip": true, "me": true, "len": 5},
+    {"platform": "技术支持", "function": "邮件支持", "free": true, "vip": true, "me": true, "isFirst":true, "len": 4},
+    {"platform": "技术支持", "function": "专人客服", "free": true, "vip": true, "me": true, "len": 4},
+    {"platform": "技术支持", "function": "解决方案咨询", "free":false, "vip": true, "me": true, "len": 4},
+    {"platform": "技术支持", "function": "定制开发", "free":false, "vip": true, "me": true, "len": 4}
+  ]
+}
